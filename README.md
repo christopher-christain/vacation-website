@@ -1,3 +1,4 @@
 # vacation-website
 
-This vacation website can be contributed to.
+This is a vacation, travel and lodge website.
+feel free to contibute to this website.
