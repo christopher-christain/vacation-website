@@ -409,3 +409,7 @@ nav .fa-bars{
 .navbar-white .fa-bars{
     color: black;
 }
+
+.navbar-white .active::after{
+    background: red;
+}
